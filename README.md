@@ -23,7 +23,8 @@ Hi, I'm Manoj, a passionate **Hardware Design and Verification Engineer** with h
 ### General  
 - **Programming**: Python, C++ , OOPs 
 - **Version Control**: Git, GitHub
-  
+
+## 📂 Featured Projects  
 🗳️ Smart EVM Machine
 The Smart EVM (Electronic Voting Machine) is an innovative solution designed to enhance the transparency, efficiency, and security of the voting process. It combines modern technology with a user-friendly interface to provide a seamless experience for both voters and election administrators.
 
